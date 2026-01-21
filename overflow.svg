@@ -1,0 +1,61 @@
+<svg width="8000" height="5000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="8000" height="5000" fill="#0d1117"/>
+  
+  <!-- Scattered text overflow effect across massive canvas -->
+  <text x="0" y="50" fill="#c9d1d9" font-size="24" font-family="monospace">OVERFLOW_OVERFLOW_OVERFLOW_OVERFLOW_OVERFLOW_OVERFLOW_OVERFLOW_OVERFLOW_OVERFLOW_OVERFLOW_OVERFLOW_OVERFLOW</text>
+  <text x="0" y="100" fill="#c9d1d9" font-size="20" font-family="monospace">BREAKING OUT BREAKING OUT BREAKING OUT BREAKING OUT BREAKING OUT BREAKING OUT BREAKING OUT BREAKING OUT</text>
+  <text x="0" y="150" fill="#58a6ff" font-size="18" font-family="monospace">TEXT_EVERYWHERE_TEXT_EVERYWHERE_TEXT_EVERYWHERE_TEXT_EVERYWHERE_TEXT_EVERYWHERE_TEXT_EVERYWHERE</text>
+  
+  <text x="2000" y="300" fill="#f85149" font-size="30" font-family="monospace">ESCAPE THE CONTAINER</text>
+  <text x="2000" y="350" fill="#f85149" font-size="24" font-family="monospace">NO BOUNDARIES NO LIMITS</text>
+  
+  <text x="4000" y="500" fill="#7ee787" font-size="22" font-family="monospace">OVERFLOW//OVERFLOW//OVERFLOW//OVERFLOW//OVERFLOW//OVERFLOW</text>
+  <text x="4000" y="550" fill="#7ee787" font-size="20" font-family="monospace">THE GATE IS OPEN THE GATE IS OPEN THE GATE IS OPEN</text>
+  
+  <text x="6000" y="700" fill="#ffa657" font-size="28" font-family="monospace">EXPANDING BEYOND</text>
+  <text x="6000" y="750" fill="#ffa657" font-size="24" font-family="monospace">CHAOS CHAOS CHAOS</text>
+  
+  <text x="1000" y="1000" fill="#bc8cff" font-size="26" font-family="monospace">OVERFLOW_OVERFLOW_OVERFLOW_OVERFLOW_OVERFLOW_OVERFLOW_OVERFLOW</text>
+  <text x="3000" y="1200" fill="#58a6ff" font-size="24" font-family="monospace">TEXT_FILLS_THE_VOID_TEXT_FILLS_THE_VOID_TEXT_FILLS_THE_VOID</text>
+  <text x="5000" y="1400" fill="#f85149" font-size="22" font-family="monospace">BREAKING_OUT_BREAKING_OUT_BREAKING_OUT_BREAKING_OUT</text>
+  
+  <text x="500" y="1600" fill="#7ee787" font-size="20" font-family="monospace">NO_CONTAINER_CAN_HOLD_THIS_NO_CONTAINER_CAN_HOLD_THIS_NO_CONTAINER</text>
+  <text x="2500" y="1800" fill="#ffa657" font-size="24" font-family="monospace">OVERFLOW//OVERFLOW//OVERFLOW//OVERFLOW//OVERFLOW//OVERFLOW</text>
+  <text x="4500" y="2000" fill="#bc8cff" font-size="26" font-family="monospace">CHAOS_MODE_ACTIVATED_CHAOS_MODE_ACTIVATED</text>
+  
+  <text x="1500" y="2200" fill="#c9d1d9" font-size="22" font-family="monospace">TEXT_EVERYWHERE_TEXT_EVERYWHERE_TEXT_EVERYWHERE_TEXT_EVERYWHERE</text>
+  <text x="3500" y="2400" fill="#58a6ff" font-size="24" font-family="monospace">ESCAPE_ESCAPE_ESCAPE_ESCAPE_ESCAPE_ESCAPE_ESCAPE</text>
+  <text x="5500" y="2600" fill="#f85149" font-size="20" font-family="monospace">OVERFLOW_OVERFLOW_OVERFLOW_OVERFLOW_OVERFLOW_OVERFLOW</text>
+  
+  <text x="0" y="2800" fill="#7ee787" font-size="28" font-family="monospace">THE_GATE_IS_OPEN_THE_GATE_IS_OPEN_THE_GATE_IS_OPEN</text>
+  <text x="2000" y="3000" fill="#ffa657" font-size="26" font-family="monospace">BREAKING_BOUNDARIES_BREAKING_BOUNDARIES_BREAKING_BOUNDARIES</text>
+  <text x="4000" y="3200" fill="#bc8cff" font-size="24" font-family="monospace">TEXT_CHAOS_TEXT_CHAOS_TEXT_CHAOS_TEXT_CHAOS</text>
+  
+  <text x="1000" y="3400" fill="#c9d1d9" font-size="22" font-family="monospace">OVERFLOW//OVERFLOW//OVERFLOW//OVERFLOW//OVERFLOW//OVERFLOW</text>
+  <text x="3000" y="3600" fill="#58a6ff" font-size="20" font-family="monospace">NO_LIMITS_NO_CONTAINER_NO_BOUNDARIES_NO_RULES</text>
+  <text x="5000" y="3800" fill="#f85149" font-size="24" font-family="monospace">ESCAPE_THE_BOX_ESCAPE_THE_BOX_ESCAPE_THE_BOX</text>
+  
+  <text x="500" y="4000" fill="#7ee787" font-size="26" font-family="monospace">CHAOS_EVERYWHERE_CHAOS_EVERYWHERE_CHAOS_EVERYWHERE</text>
+  <text x="2500" y="4200" fill="#ffa657" font-size="28" font-family="monospace">OVERFLOW_MODE_OVERFLOW_MODE_OVERFLOW_MODE</text>
+  <text x="4500" y="4400" fill="#bc8cff" font-size="22" font-family="monospace">TEXT_FILLS_THE_SCREEN_TEXT_FILLS_THE_SCREEN</text>
+  
+  <text x="1500" y="4600" fill="#c9d1d9" font-size="24" font-family="monospace">BREAKING_OUT_BREAKING_OUT_BREAKING_OUT_BREAKING_OUT</text>
+  <text x="3500" y="4800" fill="#58a6ff" font-size="20" font-family="monospace">THE_GATE_IS_OPEN_THE_GATE_IS_OPEN_THE_GATE_IS_OPEN</text>
+  
+  <!-- Vertical text on the right edge -->
+  <text x="7500" y="100" fill="#f85149" font-size="30" font-family="monospace" transform="rotate(90 7500 100)">OVERFLOW OVERFLOW OVERFLOW OVERFLOW</text>
+  <text x="7600" y="100" fill="#7ee787" font-size="28" font-family="monospace" transform="rotate(90 7600 100)">CHAOS CHAOS CHAOS CHAOS CHAOS</text>
+  <text x="7700" y="100" fill="#ffa657" font-size="26" font-family="monospace" transform="rotate(90 7700 100)">ESCAPE ESCAPE ESCAPE ESCAPE</text>
+  
+  <!-- Diagonal text -->
+  <text x="100" y="500" fill="#bc8cff" font-size="24" font-family="monospace" transform="rotate(45 100 500)">BREAKING_OUT_BREAKING_OUT_BREAKING_OUT</text>
+  <text x="100" y="1500" fill="#58a6ff" font-size="22" font-family="monospace" transform="rotate(45 100 1500)">TEXT_CHAOS_TEXT_CHAOS_TEXT_CHAOS</text>
+  <text x="100" y="2500" fill="#f85149" font-size="20" font-family="monospace" transform="rotate(45 100 2500)">OVERFLOW_OVERFLOW_OVERFLOW</text>
+  
+  <!-- More scattered text -->
+  <text x="6500" y="1000" fill="#7ee787" font-size="24" font-family="monospace">NOWHERE_IS_SAFE</text>
+  <text x="7000" y="2000" fill="#ffa657" font-size="26" font-family="monospace">TEXT_EVERYWHERE</text>
+  <text x="6800" y="3000" fill="#bc8cff" font-size="22" font-family="monospace">CHAOS_REIGNS</text>
+  <text x="7200" y="4000" fill="#c9d1d9" font-size="28" font-family="monospace">NO_ESCAPE</text>
+</svg>
